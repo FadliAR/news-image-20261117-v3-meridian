@@ -6,8 +6,11 @@
   2026-11-17T23:43:00Z; public; MIT license; GitHub About set by the
   builder: website https://make.fun/c/news-image-20261117, topic makefun)
 - Code commit: `1daf6b5aff6d93885224821c4cb6ed400ea07b66`
-  (a final docs commit carrying this file follows it; the parent
-  submits the HEAD recorded in its report)
+- Previous docs commit: `84a8101f7e48ec47a4d8d8d83cbdaba30857df17`
+- License-fix commit: `ddeb6d248d7dd47ce216c0b05827121062acf7f3`
+  (adds `SPDX-License-Identifier: MIT` to LICENSE; a final docs
+  commit carrying this updated ENDGAME follows it and is the final
+  HEAD — the parent submits the HEAD recorded in its report)
 - Checkpoint commit: `c94fdfb` (CHECKS.md, LICENSE, README, .gitignore)
 - entry.png: 1024x1024 PNG, **376,792 bytes**
 - entry.png sha256: `ad616f1d48c5e914ca245ce7b4bc896dc290ab0513ebf758b9826d43d13ffd42`
